@@ -25,7 +25,3 @@ A simple and responsive calculator built using **HTML, CSS, and JavaScript**.
 * Add decimal operations
 * Replace `eval()` with safer logic
 * Dark/Light mode toggle
-
-## 🌐 Live Demo
-
-(You can add GitHub Pages link here later)
